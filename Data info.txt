@@ -1,3 +1,4 @@
 Missing values ---claimants data
 Handling Duplicates --- Retail dataset
 Binning -- Iris dataset
+outlier treatment --- claimants dataset
